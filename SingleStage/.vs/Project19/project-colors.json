@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5fafc450-ea96-42eb-baeb-8a13c55ec0f4": {
+      "ProjectGuid": "5fafc450-ea96-42eb-baeb-8a13c55ec0f4",
+      "DisplayName": "SingleStage",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
